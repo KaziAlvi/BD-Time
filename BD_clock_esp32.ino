@@ -4,9 +4,7 @@
 
 //const char* ssid = "Access point's SSID";              
 //const char* password = "Access point's PASSWORD";  
-const char* ssid = "System1";
-const char* password = "Kfg654321!@#";    
-
+    
 const char* NTP_SERVER = "ch.pool.ntp.org";
 const char* TZ_INFO    = "UTC -6";  // enter your time zone (https://remotemonitoringsystems.ca/time-zone-abbreviations.php)
 
